@@ -134,7 +134,7 @@
       "metadata": {
         "description": "The location of resources, such as templates and DSC modules, that the template depends on"
       },
-      "defaultValue": "https://raw.githubusercontent.com/Emrikol01/azure-create-dc-rg"
+      "defaultValue": "https://raw.githubusercontent.com/Emrikol01/azure-create-dc-rg/master/"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
